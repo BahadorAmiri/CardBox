@@ -1,1 +1,4 @@
-# m_CardBox
+# CardBox
+
+## The project is obsolete and no longer useful
+## It is only available for beginners to practice
